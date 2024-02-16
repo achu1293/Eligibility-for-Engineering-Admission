@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5gNct+F2S0uIkypjXSYkN4A8nAjxauJrT63SF+lFGerZvDgJhtH6NYEvF7v8WDDSUT0ygL4kFhVpnrrGqf5W9Q==",
+  "dgSpecHash": "Piks2PEKD0lwhs5ubAjpXOJLpUA8U0enYvDwqbuHv8Rv5kccD4CAznmBOtPNPv+gLYY4YhLEPk4wU3qnBktu1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Archana\\csharpExperiments\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\C#\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
